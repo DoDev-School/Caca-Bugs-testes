@@ -1,3 +1,5 @@
+//Valores gasolina = R$6, álcool = R$4
+
 function CalcularCombustivel(combustivel, quantidade) {
     let valor
     switch (quantidade) {
